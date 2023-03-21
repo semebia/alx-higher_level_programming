@@ -1,5 +1,5 @@
 *
- * File: 13-is_palindrome.c
+/** Fil 13-is_palindrome.c
  * Auth: Semebia Wurah
  */
 
